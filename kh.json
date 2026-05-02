@@ -3,6 +3,7 @@
   "version": "5.0.0",
   "description": "Atassa, a Multi Device Whatsapp Bot built by Gifted Tech to Enhance Whatsapp Communication Experience",
   "logo": "https://files.giftedtech.co.ke/image/u90mimage.jpg",
+  "documentation-link": "https://session.giftedtech.co.ke",
   "keywords": ["atassa", "gifted-baileys", "gifted-btns", "gifted-api"],
   "success_url": "/",
   "stack": "heroku-22",
